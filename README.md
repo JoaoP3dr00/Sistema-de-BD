@@ -1,5 +1,4 @@
 # Sistema-de-BD -> Projeto de Banco de Dados com CRUD em Python.
------
 1.Tela de login
 -----
 ![Captura de Tela (81)](https://github.com/JoaoPedro369/Sistema-de-BD/assets/133379086/d8bf5d2a-9930-4514-bd1d-091cab267157)
